@@ -1,10 +1,10 @@
-
+package com.example.demo;
 
 public class Demo {
 
     public static void main(String[] args) {
-        System.out::println( "为什么没有java文件的添加图标?");
-        
+        System.out.println("hha hello world~~~~" );
+
     }
     
 }
